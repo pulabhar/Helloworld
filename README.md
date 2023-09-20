@@ -4,3 +4,4 @@ Name:bhargavi
 project:version control
 college:ANMK
 course:MCA
+affiliated to JNTU approved by aicte and ugc
